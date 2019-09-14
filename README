@@ -1,0 +1,6 @@
+These are intended to be examined/dissected in order:
+
+1. hello (basic hello, world)
+2. calc_table (basic loop)
+3. table2d (nested loop)
+4. table2dcalc (nested looop with visualization)
